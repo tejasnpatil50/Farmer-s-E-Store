@@ -1,0 +1,2 @@
+# Farmer-s-E-Store
+This projects aims to facilitate remote area farmers to buy agriculture products, there is a need to build an online agriculture product store. Through the Internet, customer and business owner can communicate with each other, share a different type of information and resources. Farmer’s E-Store will serve as a way for the farmers to sell their products across the country just with some basic knowledge about how to use the website.
